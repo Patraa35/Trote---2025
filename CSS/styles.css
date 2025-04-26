@@ -1,5 +1,4 @@
-/* Fonte Google recomendada */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
 
 body {
     font-family: 'Inter', sans-serif;
@@ -571,9 +570,5 @@ a:hover {
 ul {
     list-style: disc;
     padding-left: 20px;
-}
-
-li {
-    margin-bottom: 10px;
 }
 
